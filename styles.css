@@ -1,0 +1,23 @@
+html {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+    text-align: center;
+    font-size: 46px;
+    padding-bottom: 25px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+    font-size: 30px;
+    background-color: aquamarine;
+    font-family: 'Marck Script', cursive;
+}
+
+li {
+    margin: 10px 0;
+    color: aquamarine;
+}
